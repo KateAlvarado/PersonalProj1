@@ -1,0 +1,1 @@
+This is a very basic project utilizing the first basics I learned for HTML. I plan to continue this projects development by learning CSS in order to customize the page and improve my technical skills.
